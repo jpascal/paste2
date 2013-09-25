@@ -2,7 +2,7 @@ require "paste2/version"
 require "paste2/client"
 
 module Paste2
-  URL = 'http://paste2.org'
+  URL = 'http://paste2.org/'
   LANGUAGES = {
     "text" => "Plain Text / Other",
     "html" => "HTML",
