@@ -16,21 +16,6 @@ Or install it yourself as:
 
     $ gem install paste2
 
-## Usage
-
-Usage: paste2 [options]
-
-Examples:
-    echo 'code' | paste2
-    paste2 < file
-
-Specific options:
-    -f, --file FILE                  Post content from file
-    -d, --description TEXT           Description for post
-    -a, --all                        List supported languages
-    -l, --lang LANG                  Post content as language (default is text)
-    -h, --help                       Display this screen
-
 ## Contributing
 
 1. Fork it
