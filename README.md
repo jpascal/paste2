@@ -1,6 +1,6 @@
 # Paste2
 
-TODO: Write a gem description
+Utility allow create posts on Paste2.org
 
 ## Installation
 
